@@ -22,6 +22,13 @@ npm install
 npm start
 ```
 
+## Windows build
+
+```
+npm i -g pkg
+pkg -o bin/dwari.exe
+```
+
 ## Keymapping
 
 The default keymapping is as follows:

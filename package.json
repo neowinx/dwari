@@ -15,6 +15,7 @@
     "keypress",
     "game"
   ],
+  "bin": "main.js",
   "author": "Pedro Flores",
   "license": "ISC",
   "bugs": {

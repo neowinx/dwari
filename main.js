@@ -3,7 +3,7 @@ const config = require('./config');
 const chalk = require('chalk');
 const robot = require("robotjs");
 
-console.log(chalk.yellow(config.hook) + ' hook registered.\n');
+console.log('starting ' + chalk.yellow(config.hook) + '\n');
 
 var interval;
 
@@ -25,3 +25,5 @@ if(config.hook === 'iohook') {
   ioHook.start();
 }
 
+console.log(`\nI am ready to rumble ${chalk.bold.greenBright('Dwari')}!\n`);
+console.log(`${chalk.green('Mouse 4')} -> Auto Click`);

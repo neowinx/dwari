@@ -1,6 +1,6 @@
 {
   "name": "dwari",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A little keystroke helper for Warhammer: Vermintide",
   "main": "main.js",
   "scripts": {

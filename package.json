@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/neowinx/7-days-helper.git"
+    "url": "git+https://github.com/neowinx/dwari.git"
   },
   "keywords": [
     "keypress",
@@ -19,9 +19,9 @@
   "author": "Pedro Flores",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/neowinx/7-days-helper/issues"
+    "url": "https://github.com/neowinx/dwari/issues"
   },
-  "homepage": "https://github.com/neowinx/7-days-helper#readme",
+  "homepage": "https://github.com/neowinx/dwari#readme",
   "dependencies": {
     "chalk": "^2.1.0",
     "iohook": "^0.1.16",
